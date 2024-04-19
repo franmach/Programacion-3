@@ -1,0 +1,7 @@
+C:\Users\Francisco\OneDrive\Escritorio\Analista Programador\Semestre 3\Programacion 3\Practica 2\ej1Practica02\ej1Practica02\bin\Debug\Practica02.exe.config
+C:\Users\Francisco\OneDrive\Escritorio\Analista Programador\Semestre 3\Programacion 3\Practica 2\ej1Practica02\ej1Practica02\bin\Debug\Practica02.exe
+C:\Users\Francisco\OneDrive\Escritorio\Analista Programador\Semestre 3\Programacion 3\Practica 2\ej1Practica02\ej1Practica02\bin\Debug\Practica02.pdb
+C:\Users\Francisco\OneDrive\Escritorio\Analista Programador\Semestre 3\Programacion 3\Practica 2\ej1Practica02\ej1Practica02\obj\Debug\ej1Practica02.csproj.AssemblyReference.cache
+C:\Users\Francisco\OneDrive\Escritorio\Analista Programador\Semestre 3\Programacion 3\Practica 2\ej1Practica02\ej1Practica02\obj\Debug\ej1Practica02.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\OneDrive\Escritorio\Analista Programador\Semestre 3\Programacion 3\Practica 2\ej1Practica02\ej1Practica02\obj\Debug\Practica02.exe
+C:\Users\Francisco\OneDrive\Escritorio\Analista Programador\Semestre 3\Programacion 3\Practica 2\ej1Practica02\ej1Practica02\obj\Debug\Practica02.pdb

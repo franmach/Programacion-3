@@ -1,0 +1,7 @@
+C:\Users\Francisco\source\repos\Programacion-3\Practica 2\ej6Practica02\ej6Practica02\bin\Debug\ej6Practica02.exe.config
+C:\Users\Francisco\source\repos\Programacion-3\Practica 2\ej6Practica02\ej6Practica02\bin\Debug\ej6Practica02.exe
+C:\Users\Francisco\source\repos\Programacion-3\Practica 2\ej6Practica02\ej6Practica02\bin\Debug\ej6Practica02.pdb
+C:\Users\Francisco\source\repos\Programacion-3\Practica 2\ej6Practica02\ej6Practica02\obj\Debug\ej6Practica02.csproj.AssemblyReference.cache
+C:\Users\Francisco\source\repos\Programacion-3\Practica 2\ej6Practica02\ej6Practica02\obj\Debug\ej6Practica02.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Programacion-3\Practica 2\ej6Practica02\ej6Practica02\obj\Debug\ej6Practica02.exe
+C:\Users\Francisco\source\repos\Programacion-3\Practica 2\ej6Practica02\ej6Practica02\obj\Debug\ej6Practica02.pdb

@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ejVehiculos",
+    "\\ejVehiculos\\ejVehiculos",
+    "\\Practica 2"
   ],
+  "SelectedNode": "\\ejVehiculos\\ejVehiculos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

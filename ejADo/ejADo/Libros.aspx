@@ -92,17 +92,6 @@
                 </ItemTemplate>
             </asp:TemplateField>
 
-            <asp:TemplateField HeaderText="Nombre">
-                <ItemTemplate>
-                    <asp:Label ID="lblNombre" runat="server" Text='<%# Bind("nombre")%>'></asp:Label>
-                </ItemTemplate>
-            </asp:TemplateField>
-            <asp:TemplateField HeaderText="Apellido">
-                <ItemTemplate>
-                    <asp:Label ID="lblApellido" runat="server" Text='<%# Bind("apellidp")%>'></asp:Label>
-                </ItemTemplate>
-            </asp:TemplateField>
-
             <asp:TemplateField HeaderText="Titulo">
                 <ItemTemplate>
                     <asp:Label ID="lbl2" runat="server" Text='<%# Bind("titulo")%>'></asp:Label>

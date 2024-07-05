@@ -1,0 +1,51 @@
+﻿@model practico8AccesoADatos.Models.Alquilere
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Alquilere</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdCopia" class="control-label"></label>
+                <select asp-for="IdCopia" class ="form-control" asp-items="ViewBag.IdCopia"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCliente" class="control-label"></label>
+                <select asp-for="IdCliente" class ="form-control" asp-items="ViewBag.IdCliente"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaAlquiler" class="control-label"></label>
+                <input asp-for="FechaAlquiler" class="form-control" />
+                <span asp-validation-for="FechaAlquiler" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaTope" class="control-label"></label>
+                <input asp-for="FechaTope" class="form-control" />
+                <span asp-validation-for="FechaTope" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaEntregada" class="control-label"></label>
+                <input asp-for="FechaEntregada" class="form-control" />
+                <span asp-validation-for="FechaEntregada" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

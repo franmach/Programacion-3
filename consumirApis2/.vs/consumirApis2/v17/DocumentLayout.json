@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francisco\\source\\repos\\Programacion-3\\consumirApis2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACF8D5D-A301-42D9-A252-8E2D5D8C1B32}|consumirApis2\\consumirApis2.csproj|c:\\users\\francisco\\source\\repos\\programacion-3\\consumirapis2\\consumirapis2\\listapaises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACF8D5D-A301-42D9-A252-8E2D5D8C1B32}|consumirApis2\\consumirApis2.csproj|solutionrelative:consumirapis2\\listapaises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACF8D5D-A301-42D9-A252-8E2D5D8C1B32}|consumirApis2\\consumirApis2.csproj|c:\\users\\francisco\\source\\repos\\programacion-3\\consumirapis2\\consumirapis2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACF8D5D-A301-42D9-A252-8E2D5D8C1B32}|consumirApis2\\consumirApis2.csproj|solutionrelative:consumirapis2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaPaises.cs",
+              "DocumentMoniker": "C:\\Users\\Francisco\\source\\repos\\Programacion-3\\consumirApis2\\consumirApis2\\ListaPaises.cs",
+              "RelativeDocumentMoniker": "consumirApis2\\ListaPaises.cs",
+              "ToolTip": "C:\\Users\\Francisco\\source\\repos\\Programacion-3\\consumirApis2\\consumirApis2\\ListaPaises.cs",
+              "RelativeToolTip": "consumirApis2\\ListaPaises.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:58:33.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francisco\\source\\repos\\Programacion-3\\consumirApis2\\consumirApis2\\Program.cs",
+              "RelativeDocumentMoniker": "consumirApis2\\Program.cs",
+              "ToolTip": "C:\\Users\\Francisco\\source\\repos\\Programacion-3\\consumirApis2\\consumirApis2\\Program.cs",
+              "RelativeToolTip": "consumirApis2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:28:20.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

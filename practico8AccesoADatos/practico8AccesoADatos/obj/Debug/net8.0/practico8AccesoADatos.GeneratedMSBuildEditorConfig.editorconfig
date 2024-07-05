@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = practico8AccesoADatos
+build_property.RootNamespace = practico8AccesoADatos
+build_property.ProjectDir = C:\Users\Francisco\source\repos\practico8AccesoADatos\practico8AccesoADatos\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Francisco\source\repos\practico8AccesoADatos\practico8AccesoADatos
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Alquileres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Alquileres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Alquileres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Alquileres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Alquileres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Copias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29waWFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Copias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29waWFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Copias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29waWFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Copias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29waWFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Copias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29waWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Peliculas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Peliculas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Peliculas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Peliculas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Peliculas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Francisco/source/repos/practico8AccesoADatos/practico8AccesoADatos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f1vka74ldg

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\practico8AccesoADatos.props" />
+</Project>

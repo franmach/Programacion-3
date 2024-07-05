@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pruebaEntityModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Curso">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombreCurso" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Estudiante" Relationship="Self.fk" FromRole="Curso" ToRole="Estudiante" />
+  </EntityType>
+  <EntityType Name="Estudiante">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="edad" Type="Int32" Nullable="false" />
+    <Property Name="idCurso" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Curso" Relationship="Self.fk" FromRole="Estudiante" ToRole="Curso" />
+  </EntityType>
+  <Association Name="fk">
+    <End Role="Curso" Type="Self.Curso" Multiplicity="1" />
+    <End Role="Estudiante" Type="Self.Estudiante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Curso">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Estudiante">
+        <PropertyRef Name="idCurso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="pruebaEntityEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Curso" EntityType="Self.Curso" />
+    <EntitySet Name="Estudiante" EntityType="Self.Estudiante" />
+    <AssociationSet Name="fk" Association="Self.fk">
+      <End Role="Curso" EntitySet="Curso" />
+      <End Role="Estudiante" EntitySet="Estudiante" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

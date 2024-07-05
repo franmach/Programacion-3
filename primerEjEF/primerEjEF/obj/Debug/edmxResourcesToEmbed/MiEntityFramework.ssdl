@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pruebaEntityModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Curso">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombreCurso" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Estudiante">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="apellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="edad" Type="int" Nullable="false" />
+    <Property Name="idCurso" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="fk">
+    <End Role="Curso" Type="Self.Curso" Multiplicity="1" />
+    <End Role="Estudiante" Type="Self.Estudiante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Curso">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Estudiante">
+        <PropertyRef Name="idCurso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="pruebaEntityModelStoreContainer">
+    <EntitySet Name="Curso" EntityType="Self.Curso" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Estudiante" EntityType="Self.Estudiante" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk" Association="Self.fk">
+      <End Role="Curso" EntitySet="Curso" />
+      <End Role="Estudiante" EntitySet="Estudiante" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

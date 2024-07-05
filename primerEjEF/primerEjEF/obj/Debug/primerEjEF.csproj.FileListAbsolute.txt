@@ -1,0 +1,12 @@
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\bin\Debug\primerEjEF.exe.config
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\bin\Debug\primerEjEF.exe
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\bin\Debug\primerEjEF.pdb
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\bin\Debug\EntityFramework.dll
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\bin\Debug\EntityFramework.xml
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\obj\Debug\primerEjEF.csproj.AssemblyReference.cache
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\obj\Debug\primerEjEF.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\obj\Debug\primerEjEF.csproj.Up2Date
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\obj\Debug\primerEjEF.exe
+C:\Users\Francisco\source\repos\Programacion-3\primerEjEF\primerEjEF\obj\Debug\primerEjEF.pdb
